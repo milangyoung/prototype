@@ -9,7 +9,7 @@
 <img src="second.png">
 <img src="third.png">
 	<label>Second</label>
-	<img src="one.png">
-<img src="two.png">
+	<img src="one.PNG">
+<img src="two.PNG">
 </body>
 </html>
