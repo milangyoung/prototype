@@ -12,11 +12,11 @@
 <img src="one.PNG">
 <img src="two.PNG">
 	<lable>THIRD EDIT</label>
-	<img src="a.png">
-<img src="b.png">
-<img src="c.png">
-	<img src="d.png">
-<img src="e.png">
+	<img src="a.PNG">
+<img src="b.PNG">
+<img src="c.PNG">
+	<img src="d.PNG">
+<img src="e.PNG">
 
 </body>
 </html>
