@@ -7,10 +7,10 @@
 	<label>First edit</label>
 <img src="first.png">
 <img src="second.png">
-<img src="third.png">
+<img src="third.png"><br>
 	<label>Second EDIT</label>
 <img src="one.PNG">
-<img src="two.PNG">
+<img src="two.PNG"><br>
 	<lable>THIRD EDIT</label>
 	<img src="a.PNG">
 <img src="b.PNG">
